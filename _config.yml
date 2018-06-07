@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Hyun Kim"
   # name             : "Hyun Kim"
   avatar           : 
   # avatar           : "/assets/images/profile.png"

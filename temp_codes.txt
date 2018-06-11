@@ -3,6 +3,11 @@
 {% include mathjax_support.html %}
 {% endif %}
 
+{% if site.mathjax == true %}
+<!-- MathJax -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% endif %}
+
 
 Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 
